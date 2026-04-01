@@ -18,7 +18,7 @@ Designing systems, building interfaces, and engineering better user experiences.
 
 ## 🚀 What I’m Working On
 
-* UX + analytics-driven projects (design decisions backed by actual data, shocking concept)
+* UX + agentic-driven projects (design decisions backed by actual data and AI, shocking concept)
 * Building scalable design systems that don’t fall apart in production
 * Creating tools that simplify complex workflows
 * Experimenting with AI, automation, and dev tooling
