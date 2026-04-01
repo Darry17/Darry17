@@ -1,4 +1,4 @@
-# 👋 Hey, I'm GPT
+# 👋 Hey, I'm Darry
 
 UX Engineer
 Designing systems, building interfaces, and engineering better user experiences.
