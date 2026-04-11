@@ -1,8 +1,10 @@
-# 👋 hi, i'm [your name]
+# 👋 hi, i'm Darry
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darry17&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darry17&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Darry17&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darry17&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darry17&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darry17&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -72,6 +74,7 @@ Badges because apparently we’re doing LinkedIn cosplay:
 - if it looks good but does nothing → delete it  
 
 ---
+
 
 ## ⚡ random truths
 - i treat every inconvenience like it’s a systems design problem  
