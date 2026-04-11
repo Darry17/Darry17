@@ -1,4 +1,10 @@
-# 👋 hi, i'm darry
+# 👋 hi, i'm [your name]
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darry17&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darry17&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Darry17&theme=tokyonight)
+
+---
 
 ## 🧠 what i do (depends on the day tbh)
 ui/ux designer who accidentally went too deep into **systems, automation, and building stuff that actually works**
@@ -21,12 +27,17 @@ currently in a startup:
 ---
 
 ## 🛠️ stack (things i have beef with sometimes)
-- 🎨 figma
-- ✏️ pencil (when i feel like being a real designer for 5 minutes)
-- ⚙️ n8n
-- 🗄️ directus
-- 🟢 supabase (auth without pain? rare win)
-- 🤖 ai (when i'm feeling lazy — i call it “ai-augmented design” babyyy)
+- 🎨 figma  
+- ✏️ pencil (when i feel like remembering I’m human)  
+- ⚙️ n8n  
+- 🗄️ directus  
+- 🟢 supabase (auth without pain? rare win)  
+- 🤖 ai (when i'm lazy — “ai-augmented design babyyy”)  
+
+Badges because apparently we’re doing LinkedIn cosplay:
+- ![Automation](https://img.shields.io/badge/Automation-n8n-blue)
+- ![Backend](https://img.shields.io/badge/Backend-Supabase-green)
+- ![Design](https://img.shields.io/badge/Design-Figma-pink)
 
 ---
 
@@ -42,14 +53,14 @@ currently in a startup:
 
 - 🔗 **ReLynk**
   - free platform for fresh grads
-  - acts like a digital resume but less boring
-  - me pretending it’s “giving back to the community” (it is… but also yeah)
+  - digital resume but less boring
+  - me calling it “giving back to the community” while also just building something useful
 
 ---
 
 ## 🎯 current goals
 - ship things (actual things, not ideas sitting in notion)
-- make something people will pay for
+- make something people will actually pay for
 - eventually not need a job (respectfully)
 - stay useful while ai is speedrunning everyone’s career
 
@@ -64,7 +75,7 @@ currently in a startup:
 
 ## ⚡ random truths
 - i treat every inconvenience like it’s a systems design problem  
-- i’ve mentally rebuilt entire products while staring at a loading screen  
-- i trust automation more than i trust myself doing things manually  
+- i’ve mentally rebuilt entire products while staring at loading screens  
+- i trust automation more than my own discipline  
 - half my ideas start as “this is stupid” and end as a full project  
-- i get annoyed when things can’t scale and it’s not even my product  
+- i will redesign something instead of accepting it’s fine  
