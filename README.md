@@ -35,7 +35,7 @@ currently in a startup:
   - database for tenants / inquiries
   - basically less "hello po" back-and-forth
 
-- 📊 **internal tool that might replace asana**
+- 📊 **internal tool that might replace asana (it wont)**
   - tasks + projects + automations baked in
   - less clicking, more actual work (what a concept)
 
