@@ -1,82 +1,70 @@
-# 👋 Hey, I'm Darry
+# 👋 hi, i'm [your name]
 
-UX Engineer
-Designing systems, building interfaces, and engineering better user experiences.
+## 🧠 what i do (depends on the day tbh)
+ui/ux designer who accidentally went too deep into **systems, automation, and building stuff that actually works**
 
----
-
-## 🧠 About Me
-
-* 🧠 UX Engineer who bridges design and development (yes, both sides actually talk to me)
-* 🎨 Strong UI/UX foundation with a focus on usability and systems thinking
-* 💻 Fullstack dev with a frontend-first brain (Angular enjoyer)
-* 🤖 AI-augmented — I use AI to design faster, build smarter, and automate repetitive workflows
-* ⚙️ Building **agentic workflows** and AI-driven systems
-* 🧩 Managing and scaling **multiple design systems** (because one isn’t stressful enough)
+currently in a startup:
+- juggling multiple **design systems** like that’s normal
+- working with devs so things actually ship (crazy concept)
+- thinking about **design → code** way more than i should
+- automating things so i don’t have to suffer twice
 
 ---
 
-## 🚀 What I’m Working On
-
-* UX + agentic-driven projects (design decisions backed by actual data and AI, shocking concept)
-* Building scalable design systems that don’t fall apart in production
-* Creating tools that simplify complex workflows
-* Experimenting with AI, automation, and dev tooling
-
----
-
-## 🛠️ Tech & Tools
-
-**UX Engineering**
-
-* Design Systems
-* Interaction Design
-* UX Analytics
-* API Design
-
-**Design**
-
-* Figma
-* Wireframing & High-level Prototyping
-* UX Research (when users behave)
-
-**Frontend**
-
-* Angular
-* Astro
-* Next
-* TypeScript
-* Tailwind / CSS systems
-
-**Workflow**
-
-* Git / GitHub
-* Netlify
-* AI tools (agentic workflows, automation)
+## ⚙️ what i care about
+- design systems that don’t rot after 3 months  
+- tools that save time instead of creating meetings  
+- automation > manual work (always)  
+- fixing messy workflows because someone has to  
+- building real products, not just pretty figma files  
 
 ---
 
-## 📈 Current Focus
-
-* UX + Data Analytics (because intuition alone is a gamble)
-* AI-assisted design workflows
-* Building tools that are actually useful, not just pretty
-
----
-
-## 💡 Philosophy
-
-Good UX isn’t just designed.
-It’s engineered, tested, and refined until it stops confusing people.
+## 🛠️ stack (things i have beef with sometimes)
+- 🎨 figma
+- ⚙️ n8n
+- 🗄️ directus
+- 🟢 supabase (auth without pain? rare win)
+- 💻 frontend stuff (state management and i are in a toxic relationship)
 
 ---
 
-## ⚡ Fun Facts
+## 🧪 things i'm currently building (aka i don't sleep properly)
+- 🏠 **proptech thing for property owners**
+  - auto replies, faqs, client messages… all the annoying stuff handled
+  - database for tenants / inquiries
+  - basically less "hello po" back-and-forth
 
-* I redesign things I didn’t even build
-* I question bad UX out loud (occasionally at unsafe volumes)
-* I automate things just to avoid doing them twice
+- 📊 **internal tool that might replace asana**
+  - tasks + projects + automations baked in
+  - less clicking, more actual work (what a concept)
+
+- 🔗 **ReLynk**
+  - free platform for fresh grads
+  - acts like a digital resume but less boring
+  - me pretending it’s “giving back to the community” (it is… but also yeah)
+
+---
+
+## 🎯 current goals
+- ship things (actual things, not ideas sitting in notion)
+- make something people will pay for
+- eventually not need a job (respectfully)
+- stay useful while ai is speedrunning everyone’s career
+
+---
+
+## 🧩 personal rules
+- if it’s repetitive → automate it  
+- if it doesn’t scale → fix the system  
+- if it looks good but does nothing → delete it  
 
 
-> “If the user is confused, it’s not the user’s fault.”
-> (And if it is… the UX probably still failed somewhere.)
+---
+
+## ⚡ random truths
+- i treat every inconvenience like it’s a systems design problem  
+- i’ve mentally rebuilt entire products while staring at a loading screen  
+- i trust automation more than i trust myself doing things manually  
+- half my ideas start as “this is stupid” and end as a full project  
+- i get annoyed when things can’t scale and it’s not even my product  
