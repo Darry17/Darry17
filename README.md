@@ -1,4 +1,4 @@
-# 👋 hi, i'm Darry
+# 👋 hi, i'm darry
 
 ## 🧠 what i do (depends on the day tbh)
 ui/ux designer who accidentally went too deep into **systems, automation, and building stuff that actually works**
@@ -22,10 +22,11 @@ currently in a startup:
 
 ## 🛠️ stack (things i have beef with sometimes)
 - 🎨 figma
+- ✏️ pencil (when i feel like being a real designer for 5 minutes)
 - ⚙️ n8n
 - 🗄️ directus
 - 🟢 supabase (auth without pain? rare win)
-- 💻 frontend stuff (state management and i are in a toxic relationship)
+- 🤖 ai (when i'm feeling lazy — i call it “ai-augmented design” babyyy)
 
 ---
 
@@ -35,7 +36,7 @@ currently in a startup:
   - database for tenants / inquiries
   - basically less "hello po" back-and-forth
 
-- 📊 **internal tool that might replace asana (it wont)**
+- 📊 **internal tool that might replace asana**
   - tasks + projects + automations baked in
   - less clicking, more actual work (what a concept)
 
@@ -58,7 +59,6 @@ currently in a startup:
 - if it’s repetitive → automate it  
 - if it doesn’t scale → fix the system  
 - if it looks good but does nothing → delete it  
-
 
 ---
 
