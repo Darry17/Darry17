@@ -1,4 +1,4 @@
-# 👋 hi, i'm [your name]
+# 👋 hi, i'm Darry
 
 ## 🧠 what i do (depends on the day tbh)
 ui/ux designer who accidentally went too deep into **systems, automation, and building stuff that actually works**
