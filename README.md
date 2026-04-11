@@ -1,11 +1,5 @@
 # 👋 hi, i'm Darry
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darry17&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darry17&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Darry17&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 🧠 what i do (depends on the day tbh)
@@ -35,11 +29,6 @@ currently in a startup:
 - 🗄️ directus  
 - 🟢 supabase (auth without pain? rare win)  
 - 🤖 ai (when i'm lazy — “ai-augmented design babyyy”)  
-
-Badges because apparently we’re doing LinkedIn cosplay:
-- ![Automation](https://img.shields.io/badge/Automation-n8n-blue)
-- ![Backend](https://img.shields.io/badge/Backend-Supabase-green)
-- ![Design](https://img.shields.io/badge/Design-Figma-pink)
 
 ---
 
